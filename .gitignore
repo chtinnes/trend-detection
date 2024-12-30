@@ -1,0 +1,11 @@
+# Typical Python and Poetry giignore stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# all hidden stuff
+.*
+!.gitignore
+!.gitkeep
